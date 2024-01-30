@@ -1,1 +1,1 @@
-console.log("Hello World")
+console.log("Hello World!!\nYou have to use node {filename} to run this files")
