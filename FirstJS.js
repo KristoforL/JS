@@ -37,6 +37,18 @@ console.log(
     +"\n" + m
 );
 
+console.log(
+    "2>5 = " + 
+    2>5
+);
 
-//Booleans
-console.log("################## BOOLEANS ##################")
+console.log(
+    "25>5 = " + 
+    25>5
+);
+
+console.log(
+    "25<5 = " + 
+    25<5
+);
+
