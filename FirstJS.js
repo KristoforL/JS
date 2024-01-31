@@ -52,3 +52,4 @@ console.log(
     25<5
 );
 
+console.log("Apple" == "Apple")
